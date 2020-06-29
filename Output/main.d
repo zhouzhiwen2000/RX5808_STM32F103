@@ -1,0 +1,15 @@
+..\output\main.o: main.c
+..\output\main.o: ..\CMSIS\stm32f10x.h
+..\output\main.o: ..\CMSIS\core_cm3.h
+..\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\main.o: ..\CMSIS\system_stm32f10x.h
+..\output\main.o: ..\USER\stm32f10x_conf.h
+..\output\main.o: ..\FWlib\inc\stm32f10x_adc.h
+..\output\main.o: ..\CMSIS\stm32f10x.h
+..\output\main.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\main.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\main.o: ..\FWlib\inc\misc.h
+..\output\main.o: delay.h
+..\output\main.o: sys.h
+..\output\main.o: RX5808.h
+..\output\main.o: adc.h
